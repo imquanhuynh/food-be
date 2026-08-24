@@ -1,0 +1,9 @@
+[
+  { "name": "Phở bò", "type": "no", "style": "nuoc", "mood": "ngon" },
+  { "name": "Bún bò Huế", "type": "no", "style": "nuoc", "mood": "ngon" },
+  { "name": "Cơm tấm", "type": "no", "style": "kho", "mood": "nhanh" },
+  { "name": "Bánh mì", "type": "nhe", "style": "kho", "mood": "nhanh" },
+  { "name": "Hủ tiếu", "type": "no", "style": "nuoc", "mood": "nhanh" },
+  { "name": "Bún riêu", "type": "no", "style": "nuoc", "mood": "ngon" },
+  { "name": "Mì xào", "type": "no", "style": "kho", "mood": "nhanh" }
+]
